@@ -1,0 +1,13 @@
+type: object
+additionalProperties:
+  type: object
+  properties:
+    title:
+      type: string
+    pages:
+      type: object
+      additionalProperties:
+        type: object
+        properties:
+          title:
+            type: string

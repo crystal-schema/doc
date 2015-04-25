@@ -1,0 +1,8 @@
+name: doc
+type: schematic
+version: 0.1.0
+description: Documentation Schematic for [Crystal](http://crystal.sh)
+
+dependencies:
+  configurations:
+    studiotate: latest
